@@ -194,7 +194,7 @@ Example: Assume `example.jpg` is located at `/public/assets/images/example.jpg`.
 
 ### Image compression
 
-When you put images in the blog post (especially for images under `public` directory), it is recommended that the image is compressed. This will affect the overall performance of the website.
+When you put images inasdasfdsf the blog post (especially for images under `public` directory), it is recommended that the image is compressed. This will affect the overall performance of the website.
 
 My recommendation for image compression sites.
 
