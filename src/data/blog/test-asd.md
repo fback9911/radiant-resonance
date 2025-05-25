@@ -203,6 +203,6 @@ My recommendation for image compression sites.
 
 ### OG Image
 
-The default OG image will be placed if a post does not specify the OG image. Though not required,asd OG image related to the post should be specify in the frontmatter. The recommasdadasended size for OG image is **_1200 X 640_** px.
+The default OG image will be placed if a post does not specify the OG image. Though not required,asd OG image related to the post should be specify in the frontmatter. The recommasdadasended 5646size for OG image is **_1200 X 640_** px.
 
 > Since AstroPaper v1.4.0, OG images will be generated automatically if not specified. Check out [the announcement](https://astro-paper.pages.dev/posts/dynamic-og-image-generation-in-astropaper-blog-posts/).
